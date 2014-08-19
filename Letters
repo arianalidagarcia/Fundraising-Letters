@@ -1,0 +1,24 @@
+Dear {{ $COMPANY_CONTACT }},
+
+I am writing to you in hopes that you’ll support the global PyLadies [1] mission of closing the gender gap in the Python and open source communities by committing to help women from {{ $NAME_OF_LOCAL_CHAPTER }} attend {{ $NAME_OF_CONFERENCE }} [2].
+
+There are significant barriers to entry for women in tech, not the least of which is lack of representation at community events. Women may only make up a handful of conference attendees and speakers, and though we’ve seen greater participation by women at larger conferences, it’s only been through the financial support of sponsors like you that we’ve been able to achieve those gains. There’s still much work to do, and we’d like your help.
+
+In our local group, there are {{ $NUMBER_OF_WOMEN }} women who would attend {{ $NAME_OF_CONFERENCE }} but aren’t able to afford the cost of attendance. Our goal is to raise enough funds so that every PyLady who wants to attend this conference can.  This means that we’re trying to raise {{ $TOTAL_DOLLAR_AMOUNT }}. That is a lofty goal, but can you blame us?
+
+Any grant your organization can make will fund women to attend, speak, give tutorials, and/or present posters or lightning talks. It will go to support women who are motivated to give back to the Python and Open Source communities, and who strengthen the global community of women in tech through their outreach efforts and involvement in groups such as Pyladies.
+
+I’m hoping to count on you as a partner in helping these amazing women.  
+
+If you choose to donate, we will share your generosity among our organization and will tweet our thanks from our official PyLadies twitter account [3]. You may donate through our donation website [4] and email us your company name and donation amount on confirmation, or you may donate directly by purchasing admission tickets to {{ $NAME_OF_CONFERENCE }} on our behalf. Pyladies is a non-profit organization under the umbrella of the Python Software Foundation, and any donations made from US-based companies are tax-deductible. 
+
+Thank you, and I hope to hear from you soon!
+
+{{ $YOUR_NAME }}
+{{ $YOUR_CHAPTER_EMAIL }}
+{{ $PYLADIES LOCAL CHAPTER INFORMATION (meetup link, twitter, site, etc) }}
+
+[1] http://pyladies.com
+[2] {{ $EVENT_WEBSITE }}
+[3] {{ $YOUR LOCAL PYLADIES TWITTER HANDLE }}
+[4] http://www.pyladies.com/sponsor/
